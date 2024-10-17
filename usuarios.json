@@ -38,5 +38,9 @@
     {
         "usuario": "banana",
         "senha": "banana456"
+    },
+    {
+        "usuario": "Toria",
+        "senha": "Toria123"
     }
 ]
